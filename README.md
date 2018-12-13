@@ -2,7 +2,7 @@
 
 Technical interviews are where the magic happens. It’s where you get to meet potential teammates and collaborate with other developers to solve problems. 
 
-Interviewers may approach the tech portion differently but the objective is always the same: **assess whether you are the right person to join their team**.
+Interviewers may approach the tech portion differently, but the objective is always the same: **assess whether you are the right person to join their team**.
 
 No need to worry though. You’ve been coding for months and now it’s time to show off those skills! Let’s go over the different formats and how best to prepare. 
 
@@ -13,6 +13,9 @@ There are a number of different formats for technical interviewing. You may enco
 Here is a list of the types of interviews you can expect and should be prepared for.
 
 - Coding challenges
+  - Week long coding project
+  - Timed technical assessment
+  - HackerRank challenge
 - Technical phone screens
   - Trivia
   - Pair-programming
@@ -23,7 +26,11 @@ Here is a list of the types of interviews you can expect and should be prepared 
 
 ### Coding Challenges
 
-We have a whole other lab on coding challenges so we won’t get into details here but the gist is a company will send you a “take home” challenge where they ask you to build an app in an allotted amount of time, sometimes in a specific language, sometimes in a language of your choice. 
+Code challenges are when employers ask you to build a feature or application within an allotted time, sometimes in a specific language, sometimes in a language of your choice.
+
+Think of it half as an extended technical interview and half as you working on a project with the company. Typically, code challenges come with a set of instructions, some acceptance criteria, and a specified due date.
+
+As we’ve talked about in other pieces of content, a code challenge may be the first step, a middle step, or the final step in a company’s interview process.
 
 ### Technical Phone Screens
 
@@ -35,7 +42,7 @@ Typically there are two types of technical phone screens:
 
 > What does MVC stand for and how does it work?
 
-To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with \<language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
+To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with <language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
 
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
