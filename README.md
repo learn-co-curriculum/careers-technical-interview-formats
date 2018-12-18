@@ -138,5 +138,3 @@ Technical aptitude is an important factor when interviewing so be sure to spend 
 - Read this blog post: [How to Make the Most Out of Your Technical Interview](http://blog.flatironschool.com/how-to-make-the-most-out-of-your-next-technical/)
 - [Read these coding interview tips](https://www.interviewcake.com/article/java/coding-interview-tips)
 - [Check out this blog on how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-technical-interviewing'>Careers Technical Interviewing</a> on Learn.co and start learning to code for free.</p>
