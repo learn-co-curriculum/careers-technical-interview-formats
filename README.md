@@ -1,4 +1,4 @@
-## Technical Interviewing
+## Technical Interview Formats
 
 Technical interviews are where the magic happens. It’s where you get to meet potential teammates and collaborate with other professionals in your field to solve problems. 
 
