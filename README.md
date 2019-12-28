@@ -10,10 +10,10 @@ No need to worry though. You’ve been building your technical skill set for mon
 
 There are a number of different formats for technical interviewing. You may encounter one, some, or all of these formats during your interviewing journey. Every company interviews in a different way. Some may start with a code or data challenge, while others start with whiteboarding and save the code challenge for the end. Be ready for anything! 
 
-Here is a list of the types of interviews you can expect and should be prepared for.
+Here is a list of the types of interviews you can expect and should be prepared for:
 
 - Coding challenges
-  - Week long coding (or data) project
+  -` Week long coding (or data) project
   - Timed technical assessment
   - HackerRank or Codility challenge
   - Data science case study 
